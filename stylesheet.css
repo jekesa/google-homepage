@@ -1,0 +1,101 @@
+img {
+	margin-left: 577.5px;
+	margin-right: 577.5px;
+	margin-top: 141px;
+	width: 269px;
+	height: 95px;
+}
+
+input {
+	margin-left: 426px;
+	margin-top: 18px;
+	height: 24px;
+	width: 568px;
+}
+
+button {
+	margin-top: 16px;
+	margin-left: 4px;
+	margin-right: 8px;
+	font-size: 11px;
+	font-family: sans-serif;
+	height: 27px;
+	width: 114px;
+}
+
+#gsearch {
+	margin-left: 597.5px;
+	width: 98px;
+}
+
+div {
+	height: 366px;
+}
+
+div div {
+	height: 355px;
+	border-bottom: 1px solid lightgray;
+}
+
+ul {
+	float: right;
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+	margin-top: 10px;
+	margin-right: 10px;
+}
+
+div > ul {
+	margin-top: 0px
+}
+
+li {
+	float: left;
+}
+
+#ss {
+	height: 16px;
+	width: 16px;
+	margin: 0px;
+}
+
+#sign_in_btn {
+	background-color: blue;
+	color: white;
+}
+
+#l_footer {
+	float: left;
+}
+
+#l_footer li {
+	margin-top: 14px;
+	margin-right: 14px;
+	margin-bottom: 0px;
+	margin-left: 14px;
+
+}
+
+#r_footer li {
+	margin: 14px;
+	margin-right: 14px;
+	margin-bottom: 0px;
+	margin-left: 14px;
+}
+
+a {
+	text-decoration: none;
+	color: gray;
+	font-family: sans-serif;
+	font-size: 12px;
+	text-align: center;
+}
+
+body > ul a {
+	display: block;
+	width: 60px;
+	height: 2em;
+	padding-top: .75em;
+	border-radius: 3px;
+}
